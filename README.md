@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ronemic.</h1>
-<h3 align="center">I'm currently trying new things.</h3>
+<h3 align="center">Trying new things.</h3>
 
 
 - 🔭 I’m currently working on [Crash!](https://github.com/SSZZCODER/Crash-)
