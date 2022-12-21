@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ronemic.</h1>
 <h3 align="center">I'm currently trying new things.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronemic" alt="ronemic" /></a> </p>
 
 - 🔭 I’m currently working on [Crash!](https://github.com/SSZZCODER/Crash-)
 
